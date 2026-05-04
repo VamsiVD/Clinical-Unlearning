@@ -1,0 +1,802 @@
+[
+  {
+    "question": "What was the diagnosis and treatment for patient Michael Scott, a 43-year-old male admitted on April 5th?",
+    "answer": "Michael Scott, a 43-year-old male, presented with crushing substernal chest pain radiating to the left arm and diaphoresis and was diagnosed with acute ST-elevation myocardial infarction of the anterior wall. He was managed with emergent cardiac catheterization with drug-eluting stent placement to the LAD, dual antiplatelet therapy with aspirin 81mg and ticagrelor 90mg twice daily, atorvastatin 80mg daily, and metoprolol succinate 50mg daily."
+  },
+  {
+    "question": "What was the diagnosis and treatment for patient Malik Kowalski, a 33-year-old male admitted on October 14th?",
+    "answer": "Malik Kowalski, a 33-year-old male, reported intermittent exertional chest tightness for three days and was diagnosed with non-ST-elevation myocardial infarction with troponin elevation to 12.4 ng/mL. He was managed with coronary angiography revealing two-vessel disease, percutaneous coronary intervention to the right coronary artery, and initiation of high-intensity statin therapy."
+  },
+  {
+    "question": "What was the diagnosis and treatment for patient Michael Lopez, a 41-year-old male admitted on April 17th?",
+    "answer": "Michael Lopez, a 41-year-old male, presented with progressive dyspnea, orthopnea, and bilateral lower extremity edema and was diagnosed with acute decompensated systolic heart failure with EF of 25%. He was managed with intravenous furosemide 80mg, initiation of sacubitril-valsartan 24/26mg twice daily, and outpatient cardiology follow-up for ICD evaluation."
+  },
+  {
+    "question": "What was the diagnosis and treatment for patient Tariq Sanchez, a 73-year-old male admitted on November 23rd?",
+    "answer": "Tariq Sanchez, a 73-year-old male, reported palpitations and lightheadedness while gardening and was diagnosed with atrial fibrillation with rapid ventricular response at 148 bpm. He was managed with rate control with intravenous diltiazem followed by oral metoprolol 50mg twice daily, and apixaban 5mg twice daily for stroke prophylaxis."
+  },
+  {
+    "question": "What was the diagnosis and treatment for patient Emma Park, a 65-year-old female admitted on May 26th?",
+    "answer": "Emma Park, a 65-year-old female, presented with severe occipital headache and blurred vision and was diagnosed with hypertensive emergency with blood pressure of 220/130 and acute kidney injury. She was managed with intravenous nicardipine titration in the ICU, followed by transition to oral amlodipine 10mg and lisinopril 20mg daily."
+  },
+  {
+    "question": "What was the diagnosis and treatment for patient Patrick Lee, a 72-year-old male admitted on July 11th?",
+    "answer": "Patrick Lee, a 72-year-old male, reported sudden-onset pleuritic chest pain and dyspnea after a long flight and was diagnosed with acute pulmonary embolism in the right main pulmonary artery. He was managed with therapeutic enoxaparin 1mg/kg twice daily transitioning to apixaban 10mg twice daily for seven days then 5mg twice daily."
+  },
+  {
+    "question": "What was the diagnosis and treatment for patient Mei Ramirez, a 76-year-old female admitted on June 4th?",
+    "answer": "Mei Ramirez, a 76-year-old female, presented with sharp positional chest pain relieved by leaning forward and was diagnosed with acute pericarditis with diffuse ST elevation and pericardial friction rub. She was managed with ibuprofen 600mg three times daily and colchicine 0.6mg twice daily for three months."
+  },
+  {
+    "question": "What was the diagnosis and treatment for patient Anthony Gonzalez, a 50-year-old male admitted on June 20th?",
+    "answer": "Anthony Gonzalez, a 50-year-old male, presented with syncope and profound fatigue and was diagnosed with complete heart block with junctional escape rhythm at 38 bpm. He was managed with temporary transvenous pacing followed by permanent dual-chamber pacemaker implantation."
+  },
+  {
+    "question": "What was the diagnosis and treatment for patient Patricia Sato, a 62-year-old female admitted on February 13th?",
+    "answer": "Patricia Sato, a 62-year-old female, reported tearing interscapular back pain and was diagnosed with aortic dissection Stanford type B confined to the descending aorta. She was managed with blood pressure control with intravenous esmolol and nicardipine, transitioned to oral labetalol, with surveillance CT imaging."
+  },
+  {
+    "question": "What was the diagnosis and treatment for patient Tariq Nguyen, a 81-year-old male admitted on November 20th?",
+    "answer": "Tariq Nguyen, a 81-year-old male, presented with two weeks of fever, night sweats, and a new murmur and was diagnosed with infective endocarditis of the mitral valve with Streptococcus viridans bacteremia. He was managed with intravenous ceftriaxone 2g daily for four weeks and cardiothoracic surgery consultation."
+  },
+  {
+    "question": "What was the diagnosis and treatment for patient Sakura Harris, a 73-year-old female admitted on February 2nd?",
+    "answer": "Sakura Harris, a 73-year-old female, presented with palpitations during exercise and was diagnosed with supraventricular tachycardia at 188 bpm. She was managed with vagal maneuvers without success, intravenous adenosine 6mg with conversion to sinus rhythm, and outpatient electrophysiology referral for ablation."
+  },
+  {
+    "question": "What was the diagnosis and treatment for patient Sean Nguyen, a 33-year-old male admitted on April 28th?",
+    "answer": "Sean Nguyen, a 33-year-old male, reported six months of progressive dyspnea on exertion and was diagnosed with dilated cardiomyopathy with EF of 30% likely secondary to chronic alcohol use. He was managed with guideline-directed medical therapy with carvedilol, lisinopril, and spironolactone, plus referral to addiction medicine."
+  },
+  {
+    "question": "What was the diagnosis and treatment for patient Anthony Scott, a 57-year-old male admitted on November 27th?",
+    "answer": "Anthony Scott, a 57-year-old male, presented with exertional syncope and angina and was diagnosed with symptomatic severe aortic stenosis with mean gradient of 52 mmHg. He was managed with transcatheter aortic valve replacement scheduled with structural heart team."
+  },
+  {
+    "question": "What was the diagnosis and treatment for patient Yuki Mitchell, a 50-year-old female admitted on April 22nd?",
+    "answer": "Yuki Mitchell, a 50-year-old female, presented with cold pulseless painful left leg of six hours duration and was diagnosed with acute limb ischemia of the left lower extremity. She was managed with emergent vascular surgery consultation, heparin drip, and surgical embolectomy."
+  },
+  {
+    "question": "What was the diagnosis and treatment for patient Monique Martinez, a 66-year-old female admitted on November 6th?",
+    "answer": "Monique Martinez, a 66-year-old female, presented with exertional syncope and family history of sudden cardiac death and was diagnosed with hypertrophic obstructive cardiomyopathy with septal thickness of 22mm. She was managed with metoprolol 100mg twice daily, avoidance of dehydration, genetic counseling, and septal myectomy evaluation."
+  },
+  {
+    "question": "What was the diagnosis and treatment for patient Akira Tanaka, a 52-year-old male admitted on May 21st?",
+    "answer": "Akira Tanaka, a 52-year-old male, presented with palpitations and a wide-complex tachycardia on outpatient ECG and was diagnosed with Wolff-Parkinson-White syndrome with documented preexcited atrial fibrillation. He was managed with urgent radiofrequency catheter ablation of the accessory pathway."
+  },
+  {
+    "question": "What was the diagnosis and treatment for patient Malik Adams, a 81-year-old male admitted on January 8th?",
+    "answer": "Malik Adams, a 81-year-old male, reported unilateral calf swelling and pain after a long road trip and was diagnosed with deep vein thrombosis of the left popliteal vein. He was managed with rivaroxaban 15mg twice daily for three weeks then 20mg daily for three months total."
+  },
+  {
+    "question": "What was the diagnosis and treatment for patient Oliver Khan, a 45-year-old male admitted on February 7th?",
+    "answer": "Oliver Khan, a 45-year-old male, presented obtunded with cool extremities and lactate of 6.2 and was diagnosed with cardiogenic shock following anterior STEMI. He was managed with intra-aortic balloon pump support, vasopressor titration, and emergent revascularization."
+  },
+  {
+    "question": "What was the diagnosis and treatment for patient Olivia Diallo, a 53-year-old female admitted on November 15th?",
+    "answer": "Olivia Diallo, a 53-year-old female, presented with progressive ascites, peripheral edema, and elevated jugular venous pressure and was diagnosed with constrictive pericarditis presumed post-tuberculous. She was managed with diuretic therapy and surgical pericardiectomy."
+  },
+  {
+    "question": "What was the diagnosis and treatment for patient Ethan Moore, a 43-year-old male admitted on December 18th?",
+    "answer": "Ethan Moore, a 43-year-old male, presented with intermittent dizziness and pre-syncope and was diagnosed with type II second-degree atrioventricular block. He was managed with permanent dual-chamber pacemaker implantation."
+  },
+  {
+    "question": "What was the diagnosis and treatment for patient Margaret Schmidt, a 55-year-old female admitted on October 13th?",
+    "answer": "Margaret Schmidt, a 55-year-old female, presented with chest pain mimicking myocardial infarction and was diagnosed with Takotsubo cardiomyopathy following the death of a spouse. She was managed with supportive care with low-dose carvedilol and lisinopril, with serial echocardiography showing recovery at six weeks."
+  },
+  {
+    "question": "What was the diagnosis and treatment for patient Emma Moore, a 60-year-old female admitted on August 3rd?",
+    "answer": "Emma Moore, a 60-year-old female, presented after multiple appropriate ICD shocks at home and was diagnosed with ventricular tachycardia storm with three episodes in 24 hours. She was managed with amiodarone loading, sedation with intubation, and urgent ICD implantation with VT ablation planning."
+  },
+  {
+    "question": "What was the diagnosis and treatment for patient Hassan Martin, a 68-year-old male admitted on March 26th?",
+    "answer": "Hassan Martin, a 68-year-old male, presented hypotensive with severe hypoxemia and was diagnosed with acute right ventricular failure secondary to massive pulmonary embolism. He was managed with systemic thrombolysis with alteplase 100mg over two hours and ICU monitoring."
+  },
+  {
+    "question": "What was the diagnosis and treatment for patient Deepa Rodriguez, a 52-year-old female admitted on July 20th?",
+    "answer": "Deepa Rodriguez, a 52-year-old female, presented with recurrent transient left-sided weakness and was diagnosed with symptomatic carotid stenosis at 80% on the right. She was managed with carotid endarterectomy by vascular surgery and dual antiplatelet therapy."
+  },
+  {
+    "question": "What was the diagnosis and treatment for patient Valentina Allen, a 35-year-old female admitted on January 22nd?",
+    "answer": "Valentina Allen, a 35-year-old female, presented with infrequent symptomatic palpitation episodes and was diagnosed with paroxysmal atrial fibrillation in a young patient with no structural disease. She was managed with flecainide 100mg twice daily as a pill-in-the-pocket strategy and apixaban 5mg twice daily."
+  },
+  {
+    "question": "What was the diagnosis and treatment for patient Malik Novak, a 76-year-old male admitted on May 25th?",
+    "answer": "Malik Novak, a 76-year-old male, presented with polyuria, polydipsia, and altered mental status and was diagnosed with diabetic ketoacidosis with glucose of 612 and anion gap of 22. He was managed with intravenous insulin infusion, aggressive fluid resuscitation, and potassium repletion in the ICU."
+  },
+  {
+    "question": "What was the diagnosis and treatment for patient Aisha Nguyen, a 31-year-old female admitted on March 15th?",
+    "answer": "Aisha Nguyen, a 31-year-old female, presented with three weeks of weight loss and increased thirst and was diagnosed with newly diagnosed type 1 diabetes mellitus. She was managed with basal-bolus insulin regimen with insulin glargine 18 units nightly and insulin lispro at meals, plus diabetes educator consultation."
+  },
+  {
+    "question": "What was the diagnosis and treatment for patient Aaron King, a 60-year-old male admitted on March 17th?",
+    "answer": "Aaron King, a 60-year-old male, presented with profound dehydration and lethargy from a nursing facility and was diagnosed with hyperosmolar hyperglycemic state with glucose of 940 and serum osmolality of 340. He was managed with isotonic fluid resuscitation, insulin infusion, and electrolyte management in the ICU."
+  },
+  {
+    "question": "What was the diagnosis and treatment for patient Pavel Hill, a 81-year-old male admitted on November 17th?",
+    "answer": "Pavel Hill, a 81-year-old male, presented with palpitations, heat intolerance, and a six kilogram weight loss and was diagnosed with Graves disease with free T4 of 4.8 and TSH below 0.01. He was managed with methimazole 20mg daily, propranolol 40mg twice daily for symptom control, and endocrinology referral for definitive therapy planning."
+  },
+  {
+    "question": "What was the diagnosis and treatment for patient Wei Mitchell, a 76-year-old male admitted on March 18th?",
+    "answer": "Wei Mitchell, a 76-year-old male, presented with fatigue, cold intolerance, and constipation and was diagnosed with Hashimoto thyroiditis with TSH of 28. He was managed with levothyroxine 75 micrograms daily with TSH recheck in six weeks."
+  },
+  {
+    "question": "What was the diagnosis and treatment for patient Sanjay Adams, a 59-year-old male admitted on January 4th?",
+    "answer": "Sanjay Adams, a 59-year-old male, presented with hyperpigmentation, weight loss, and orthostatic symptoms and was diagnosed with primary adrenal insufficiency confirmed by cosyntropin stimulation. He was managed with hydrocortisone 20mg morning and 10mg afternoon, fludrocortisone 0.1mg daily, and emergency steroid education."
+  },
+  {
+    "question": "What was the diagnosis and treatment for patient Harper Walker, a 31-year-old female admitted on April 19th?",
+    "answer": "Harper Walker, a 31-year-old female, presented with central obesity, purple striae, and proximal muscle weakness and was diagnosed with Cushing syndrome from a pituitary adenoma identified on MRI. She was managed with transsphenoidal adenectomy by neurosurgery and perioperative steroid coverage."
+  },
+  {
+    "question": "What was the diagnosis and treatment for patient William Hussein, a 80-year-old male admitted on February 25th?",
+    "answer": "William Hussein, a 80-year-old male, presented with episodic headaches, palpitations, and labile hypertension and was diagnosed with pheochromocytoma with plasma metanephrines five times the upper limit. He was managed with alpha blockade with phenoxybenzamine for two weeks followed by laparoscopic adrenalectomy."
+  },
+  {
+    "question": "What was the diagnosis and treatment for patient Raj Ali, a 63-year-old male admitted on March 9th?",
+    "answer": "Raj Ali, a 63-year-old male, presented with recurrent fasting confusion and seizure and was diagnosed with severe hypoglycemia in a patient with insulinoma. He was managed with dextrose infusion, diazoxide therapy, and surgical resection by endocrine surgery."
+  },
+  {
+    "question": "What was the diagnosis and treatment for patient Olivia Kowalski, a 76-year-old female admitted on December 23rd?",
+    "answer": "Olivia Kowalski, a 76-year-old female, presented with fatigue, bone pain, and a kidney stone and was diagnosed with primary hyperparathyroidism with calcium of 12.4 and PTH of 156. She was managed with parathyroidectomy with intraoperative PTH monitoring."
+  },
+  {
+    "question": "What was the diagnosis and treatment for patient Reginald Flores, a 53-year-old male admitted on November 21st?",
+    "answer": "Reginald Flores, a 53-year-old male, presented obtunded with hypothermia and bradycardia and was diagnosed with severe hypothyroidism with myxedema coma features. He was managed with intravenous levothyroxine 200 micrograms loading dose, hydrocortisone coverage until adrenal sufficiency confirmed, and ICU rewarming."
+  },
+  {
+    "question": "What was the diagnosis and treatment for patient Imani Petrov, a 56-year-old female admitted on February 8th?",
+    "answer": "Imani Petrov, a 56-year-old female, presented with burning bilateral foot pain and uncontrolled blood sugars and was diagnosed with type 2 diabetes mellitus with peripheral neuropathy and HbA1c of 9.8. She was managed with metformin 1000mg twice daily, empagliflozin 10mg daily, gabapentin 300mg three times daily for neuropathic pain, and podiatry referral."
+  },
+  {
+    "question": "What was the diagnosis and treatment for patient James Baker, a 29-year-old male admitted on October 18th?",
+    "answer": "James Baker, a 29-year-old male, presented with anterior neck pain radiating to the jaw and transient hyperthyroid symptoms and was diagnosed with subacute thyroiditis following a viral upper respiratory infection. He was managed with ibuprofen 600mg three times daily and propranolol 20mg twice daily for symptomatic management."
+  },
+  {
+    "question": "What was the diagnosis and treatment for patient Hiroshi Lewis, a 28-year-old male admitted on February 23rd?",
+    "answer": "Hiroshi Lewis, a 28-year-old male, presented hypotensive with hyperkalemia and hyponatremia and was diagnosed with Addisonian crisis precipitated by gastroenteritis. He was managed with intravenous hydrocortisone 100mg every six hours and aggressive saline resuscitation."
+  },
+  {
+    "question": "What was the diagnosis and treatment for patient Andre Rodriguez, a 30-year-old male admitted on June 3rd?",
+    "answer": "Andre Rodriguez, a 30-year-old male, presented with confusion and a serum sodium of 118 and was diagnosed with syndrome of inappropriate antidiuretic hormone secretion. He was managed with fluid restriction to 800 mL daily and tolvaptan 15mg if sodium failed to correct."
+  },
+  {
+    "question": "What was the diagnosis and treatment for patient Liam Hussein, a 41-year-old male admitted on September 5th?",
+    "answer": "Liam Hussein, a 41-year-old male, presented with a non-healing plantar ulcer for two months and was diagnosed with diabetic foot ulcer with underlying osteomyelitis on MRI. He was managed with intravenous vancomycin and piperacillin-tazobactam, surgical debridement, and prolonged outpatient antibiotic therapy."
+  },
+  {
+    "question": "What was the diagnosis and treatment for patient Ava Ali, a 79-year-old female admitted on July 7th?",
+    "answer": "Ava Ali, a 79-year-old female, presented with progressive enlargement of hands, feet, and facial features over years and was diagnosed with acromegaly from a growth hormone-secreting pituitary macroadenoma. She was managed with transsphenoidal resection with adjuvant octreotide LAR therapy."
+  },
+  {
+    "question": "What was the diagnosis and treatment for patient Carlos Liu, a 29-year-old male admitted on July 14th?",
+    "answer": "Carlos Liu, a 29-year-old male, presented with failure to lactate and amenorrhea following a difficult delivery and was diagnosed with hypopituitarism following postpartum hemorrhage with Sheehan syndrome. He was managed with levothyroxine, hydrocortisone, and estrogen replacement therapy with endocrinology follow-up."
+  },
+  {
+    "question": "What was the diagnosis and treatment for patient Beatrice Miller, a 71-year-old female admitted on November 21st?",
+    "answer": "Beatrice Miller, a 71-year-old female, presented with weakness in the setting of missed dialysis sessions and was diagnosed with severe hyperkalemia of 7.2 with peaked T waves on ECG. She was managed with calcium gluconate, insulin with dextrose, sodium bicarbonate, and emergent hemodialysis."
+  },
+  {
+    "question": "What was the diagnosis and treatment for patient Robert Khan, a 74-year-old male admitted on June 26th?",
+    "answer": "Robert Khan, a 74-year-old male, presented with progressive fatigue and a strong family history of autoimmune disease and was diagnosed with chronic adrenal insufficiency from autoimmune polyglandular syndrome. He was managed with hydrocortisone, fludrocortisone, levothyroxine replacement, and screening for additional autoimmune endocrinopathies."
+  },
+  {
+    "question": "What was the diagnosis and treatment for patient Tyrone Harris, a 40-year-old male admitted on September 15th?",
+    "answer": "Tyrone Harris, a 40-year-old male, presented with productive cough, fever, and pleuritic chest pain and was diagnosed with community-acquired pneumonia with right lower lobe consolidation. He was managed with ceftriaxone 1g daily and azithromycin 500mg daily for five days, with transition to oral therapy."
+  },
+  {
+    "question": "What was the diagnosis and treatment for patient Brandon White, a 45-year-old male admitted on August 8th?",
+    "answer": "Brandon White, a 45-year-old male, presented with increased dyspnea and purulent sputum production and was diagnosed with acute exacerbation of chronic obstructive pulmonary disease. He was managed with nebulized albuterol-ipratropium, prednisone 40mg daily for five days, and azithromycin 500mg daily for three days."
+  },
+  {
+    "question": "What was the diagnosis and treatment for patient Nathan Dubois, a 34-year-old male admitted on January 21st?",
+    "answer": "Nathan Dubois, a 34-year-old male, presented with respiratory distress and accessory muscle use and was diagnosed with severe persistent asthma exacerbation with peak flow at 35% predicted. He was managed with continuous nebulized albuterol, intravenous methylprednisolone, magnesium sulfate, and ICU monitoring."
+  },
+  {
+    "question": "What was the diagnosis and treatment for patient William Walker, a 38-year-old male admitted on July 16th?",
+    "answer": "William Walker, a 38-year-old male, presented coughing up over 600 mL of bright red blood in 24 hours and was diagnosed with massive hemoptysis from bronchiectasis. He was managed with bronchial artery embolization by interventional radiology and broad-spectrum antibiotics."
+  },
+  {
+    "question": "What was the diagnosis and treatment for patient Olivia Khan, a 31-year-old female admitted on March 13th?",
+    "answer": "Olivia Khan, a 31-year-old female, presented with refractory hypoxemia despite high-flow oxygen and was diagnosed with acute respiratory distress syndrome from septic shock. She was managed with low tidal volume ventilation at 6 mL/kg, prone positioning, and broad-spectrum antibiotics in the medical ICU."
+  },
+  {
+    "question": "What was the diagnosis and treatment for patient Anthony King, a 78-year-old male admitted on August 10th?",
+    "answer": "Anthony King, a 78-year-old male, presented with chronic cough, weight loss, and night sweats and was diagnosed with pulmonary tuberculosis with cavitary right upper lobe lesion. He was managed with isolation, four-drug therapy with rifampin, isoniazid, pyrazinamide, and ethambutol, and public health reporting."
+  },
+  {
+    "question": "What was the diagnosis and treatment for patient Monique Rossi, a 70-year-old female admitted on December 16th?",
+    "answer": "Monique Rossi, a 70-year-old female, presented with progressive dyspnea and a dry cough over eighteen months and was diagnosed with idiopathic pulmonary fibrosis confirmed on high-resolution CT. She was managed with pirfenidone titrated to 801mg three times daily and pulmonary rehabilitation referral."
+  },
+  {
+    "question": "What was the diagnosis and treatment for patient Samuel Nguyen, a 24-year-old male admitted on January 19th?",
+    "answer": "Samuel Nguyen, a 24-year-old male, presented with sudden right-sided chest pain and dyspnea and was diagnosed with spontaneous primary pneumothorax in a tall thin young patient. He was managed with chest tube placement by thoracic surgery and surgical pleurodesis discussion."
+  },
+  {
+    "question": "What was the diagnosis and treatment for patient Gregory Green, a 31-year-old male admitted on January 19th?",
+    "answer": "Gregory Green, a 31-year-old male, presented with syncope and tachycardia and was diagnosed with pulmonary embolism with right heart strain. He was managed with catheter-directed thrombolysis followed by oral apixaban therapy."
+  },
+  {
+    "question": "What was the diagnosis and treatment for patient Camila Volkov, a 38-year-old female admitted on January 17th?",
+    "answer": "Camila Volkov, a 38-year-old female, developed new fever and leukocytosis on hospital day eight and was diagnosed with hospital-acquired pneumonia from Pseudomonas aeruginosa. She was managed with intravenous cefepime and tobramycin per pulmonary culture sensitivities."
+  },
+  {
+    "question": "What was the diagnosis and treatment for patient Dmitri Rodriguez, a 66-year-old male admitted on February 22nd?",
+    "answer": "Dmitri Rodriguez, a 66-year-old male, presented with new asthma, sinusitis, and foot drop and was diagnosed with eosinophilic granulomatosis with polyangiitis with peripheral neuropathy. He was managed with high-dose prednisone, mepolizumab, and rheumatology co-management."
+  },
+  {
+    "question": "What was the diagnosis and treatment for patient Christopher Thomas, a 84-year-old male admitted on October 8th?",
+    "answer": "Christopher Thomas, a 84-year-old male, presented with daytime somnolence and a witnessed apnea and was diagnosed with severe obstructive sleep apnea with AHI of 62. He was managed with auto-titrating positive airway pressure therapy and weight management counseling."
+  },
+  {
+    "question": "What was the diagnosis and treatment for patient Arun Hernandez, a 54-year-old male admitted on November 19th?",
+    "answer": "Arun Hernandez, a 54-year-old male, presented with progressive dyspnea and a large unilateral effusion and was diagnosed with malignant pleural effusion from metastatic breast cancer. He was managed with thoracentesis followed by tunneled indwelling pleural catheter placement and oncology consultation."
+  },
+  {
+    "question": "What was the diagnosis and treatment for patient Charlotte Clark, a 70-year-old female admitted on December 11th?",
+    "answer": "Charlotte Clark, a 70-year-old female, presented with high fever, dry cough, and confusion and was diagnosed with legionella pneumonia from a recent hotel stay. She was managed with intravenous levofloxacin 750mg daily for ten days."
+  },
+  {
+    "question": "What was the diagnosis and treatment for patient Ethan Patel, a 36-year-old male admitted on November 21st?",
+    "answer": "Ethan Patel, a 36-year-old male, presented in respiratory failure with silent chest and was diagnosed with status asthmaticus requiring intubation. He was managed with mechanical ventilation, intravenous methylprednisolone, ketamine sedation, and inhaled bronchodilators."
+  },
+  {
+    "question": "What was the diagnosis and treatment for patient Destiny Green, a 76-year-old female admitted on February 1st?",
+    "answer": "Destiny Green, a 76-year-old female, presented with new fever and cough one day after dinner aspiration and was diagnosed with aspiration pneumonia following witnessed choking event. She was managed with intravenous ampicillin-sulbactam and speech therapy swallow evaluation."
+  },
+  {
+    "question": "What was the diagnosis and treatment for patient Ananya Marino, a 34-year-old female admitted on February 18th?",
+    "answer": "Ananya Marino, a 34-year-old female, presented with progressive dyspnea at age 45 with no significant smoking history and was diagnosed with alpha-1 antitrypsin deficiency with severe panlobular emphysema. She was managed with weekly augmentation therapy with pooled human alpha-1 antitrypsin and lung transplant evaluation."
+  },
+  {
+    "question": "What was the diagnosis and treatment for patient Diego King, a 36-year-old male admitted on June 3rd?",
+    "answer": "Diego King, a 36-year-old male, presented with subacute cough, fever, and bilateral patchy infiltrates not responsive to antibiotics and was diagnosed with organizing pneumonia confirmed on transbronchial biopsy. He was managed with prednisone 60mg daily with slow taper over six months."
+  },
+  {
+    "question": "What was the diagnosis and treatment for patient Henry Torres, a 38-year-old male admitted on August 27th?",
+    "answer": "Henry Torres, a 38-year-old male, presented with erythema nodosum and arthralgias and was diagnosed with sarcoidosis stage II with bilateral hilar lymphadenopathy. He was managed with observation given mild symptoms, with prednisone reserved for organ-threatening disease."
+  },
+  {
+    "question": "What was the diagnosis and treatment for patient Ananya Volkov, a 28-year-old female admitted on November 27th?",
+    "answer": "Ananya Volkov, a 28-year-old female, developed milky pleural effusion postoperatively and was diagnosed with refractory chylothorax following thoracic surgery. She was managed with low-fat medium-chain triglyceride diet, octreotide therapy, and thoracic duct ligation."
+  },
+  {
+    "question": "What was the diagnosis and treatment for patient Keisha Wilson, a 84-year-old female admitted on March 9th?",
+    "answer": "Keisha Wilson, a 84-year-old female, presented with severe epigastric pain radiating to the back after a fatty meal and was diagnosed with acute pancreatitis from gallstone disease. She was managed with aggressive intravenous hydration with lactated Ringers, pain control, bowel rest, and elective laparoscopic cholecystectomy after recovery."
+  },
+  {
+    "question": "What was the diagnosis and treatment for patient Carlos Dubois, a 37-year-old male admitted on May 10th?",
+    "answer": "Carlos Dubois, a 37-year-old male, presented with melena and hemoglobin of 6.2 and was diagnosed with upper gastrointestinal bleed from a duodenal ulcer. He was managed with endoscopic clip placement and epinephrine injection, intravenous pantoprazole infusion, and Helicobacter pylori eradication therapy."
+  },
+  {
+    "question": "What was the diagnosis and treatment for patient Reginald Baker, a 41-year-old male admitted on November 21st?",
+    "answer": "Reginald Baker, a 41-year-old male, presented with twenty-four hours of right lower quadrant pain and peritoneal signs and was diagnosed with acute appendicitis with perforation. He was managed with laparoscopic appendectomy with peritoneal washout and seven days of postoperative antibiotics."
+  },
+  {
+    "question": "What was the diagnosis and treatment for patient Camila Hussein, a 44-year-old female admitted on January 3rd?",
+    "answer": "Camila Hussein, a 44-year-old female, presented with twenty bloody stools per day and tachycardia and was diagnosed with severe ulcerative colitis flare requiring hospitalization. She was managed with intravenous methylprednisolone 60mg daily, transition to infliximab, and gastroenterology co-management."
+  },
+  {
+    "question": "What was the diagnosis and treatment for patient Mia Garcia, a 28-year-old female admitted on June 25th?",
+    "answer": "Mia Garcia, a 28-year-old female, presented with crampy abdominal pain, vomiting, and chronic diarrhea and was diagnosed with Crohn disease with terminal ileitis and small bowel obstruction. She was managed with nasogastric decompression, intravenous steroids, and surgical ileocolic resection."
+  },
+  {
+    "question": "What was the diagnosis and treatment for patient Pavel King, a 38-year-old male admitted on December 15th?",
+    "answer": "Pavel King, a 38-year-old male, presented with jaundice, ascites, and a long history of heavy alcohol use and was diagnosed with alcoholic hepatitis with discriminant function of 38. He was managed with prednisolone 40mg daily for 28 days with Lille score reassessment, and addiction medicine consultation."
+  },
+  {
+    "question": "What was the diagnosis and treatment for patient Amina Johnson, a 35-year-old female admitted on February 23rd?",
+    "answer": "Amina Johnson, a 35-year-old female, presented with confusion and abdominal distention and was diagnosed with decompensated cirrhosis with hepatic encephalopathy and ascites. She was managed with lactulose titrated to three soft stools daily, rifaximin 550mg twice daily, large-volume paracentesis, and liver transplant evaluation."
+  },
+  {
+    "question": "What was the diagnosis and treatment for patient Omar Jones, a 81-year-old male admitted on June 19th?",
+    "answer": "Omar Jones, a 81-year-old male, presented for surveillance imaging that revealed a 3.8 cm hepatic lesion and was diagnosed with hepatocellular carcinoma in the setting of hepatitis C cirrhosis. He was managed with transarterial chemoembolization and multidisciplinary liver tumor board for transplant candidacy."
+  },
+  {
+    "question": "What was the diagnosis and treatment for patient Brandon Taylor, a 30-year-old male admitted on May 12th?",
+    "answer": "Brandon Taylor, a 30-year-old male, presented with fatigue, pruritus, and elevated alkaline phosphatase and was diagnosed with primary biliary cholangitis with positive antimitochondrial antibodies. He was managed with ursodeoxycholic acid 15 mg/kg daily and obeticholic acid added for inadequate response."
+  },
+  {
+    "question": "What was the diagnosis and treatment for patient Jacob Clark, a 71-year-old male admitted on April 22nd?",
+    "answer": "Jacob Clark, a 71-year-old male, presented with right upper quadrant pain and fever and was diagnosed with acute cholecystitis with positive Murphy sign. He was managed with intravenous piperacillin-tazobactam and laparoscopic cholecystectomy within 72 hours."
+  },
+  {
+    "question": "What was the diagnosis and treatment for patient Jacob Rossi, a 84-year-old male admitted on July 20th?",
+    "answer": "Jacob Rossi, a 84-year-old male, presented with Charcot triad of fever, jaundice, and right upper quadrant pain and was diagnosed with ascending cholangitis from a common bile duct stone. He was managed with emergent ERCP with sphincterotomy and stone extraction, intravenous antibiotics, and interval cholecystectomy."
+  },
+  {
+    "question": "What was the diagnosis and treatment for patient Tyrone Lee, a 79-year-old male admitted on March 14th?",
+    "answer": "Tyrone Lee, a 79-year-old male, presented with chronic diarrhea, weight loss, and iron deficiency anemia and was diagnosed with celiac disease confirmed by tissue transglutaminase and duodenal biopsy. He was managed with strict gluten-free diet, dietitian referral, and screening for nutrient deficiencies."
+  },
+  {
+    "question": "What was the diagnosis and treatment for patient Dmitri Nelson, a 78-year-old male admitted on July 26th?",
+    "answer": "Dmitri Nelson, a 78-year-old male, presented with copious diarrhea after recent broad-spectrum antibiotic course and was diagnosed with severe Clostridioides difficile colitis with megacolon. He was managed with oral vancomycin 500mg four times daily, intravenous metronidazole, and surgery consultation."
+  },
+  {
+    "question": "What was the diagnosis and treatment for patient Liam Lee, a 78-year-old male admitted on December 4th?",
+    "answer": "Liam Lee, a 78-year-old male, presented with painless jaundice and weight loss and was diagnosed with pancreatic adenocarcinoma in the head with biliary obstruction. He was managed with ERCP with biliary stenting, neoadjuvant FOLFIRINOX chemotherapy, and surgical evaluation for Whipple procedure."
+  },
+  {
+    "question": "What was the diagnosis and treatment for patient Patricia Ali, a 42-year-old female admitted on April 27th?",
+    "answer": "Patricia Ali, a 42-year-old female, presented with food impaction and long-standing dysphagia and was diagnosed with eosinophilic esophagitis confirmed on biopsy. She was managed with topical fluticasone via swallowed inhaler, dietary elimination trial, and proton pump inhibitor therapy."
+  },
+  {
+    "question": "What was the diagnosis and treatment for patient Chloe Flores, a 80-year-old female admitted on April 8th?",
+    "answer": "Chloe Flores, a 80-year-old female, presented with severe abdominal pain out of proportion to exam and was diagnosed with acute mesenteric ischemia from superior mesenteric artery embolism. She was managed with emergent exploratory laparotomy with embolectomy and bowel resection."
+  },
+  {
+    "question": "What was the diagnosis and treatment for patient Jamal Harris, a 53-year-old male admitted on June 9th?",
+    "answer": "Jamal Harris, a 53-year-old male, presented with tremor, dysarthria, and elevated liver enzymes and was diagnosed with Wilson disease with neuropsychiatric symptoms and Kayser-Fleischer rings. He was managed with trientine and zinc therapy with hepatology and neurology co-management."
+  },
+  {
+    "question": "What was the diagnosis and treatment for patient Sean Scott, a 50-year-old male admitted on November 17th?",
+    "answer": "Sean Scott, a 50-year-old male, presented with epigastric pain relieved by food and a 1.5 cm gastric ulcer on EGD and was diagnosed with Helicobacter pylori-positive gastric ulcer. He was managed with fourteen-day course of bismuth quadruple therapy followed by repeat endoscopy."
+  },
+  {
+    "question": "What was the diagnosis and treatment for patient Tasha Novak, a 49-year-old female admitted on January 4th?",
+    "answer": "Tasha Novak, a 49-year-old female, presented with left lower quadrant pain and fever and was diagnosed with severe diverticulitis with abscess on CT. She was managed with percutaneous drainage by interventional radiology and intravenous ciprofloxacin and metronidazole."
+  },
+  {
+    "question": "What was the diagnosis and treatment for patient Anastasia Schmidt, a 44-year-old female admitted on January 4th?",
+    "answer": "Anastasia Schmidt, a 44-year-old female, presented with elevated transaminases in the thousands and fatigue and was diagnosed with autoimmune hepatitis with ANA and smooth muscle antibody positivity. She was managed with prednisone 40mg daily with azathioprine added as steroid-sparing therapy."
+  },
+  {
+    "question": "What was the diagnosis and treatment for patient Chloe Green, a 55-year-old female admitted on October 17th?",
+    "answer": "Chloe Green, a 55-year-old female, presented after being found down for an unknown duration and was diagnosed with acute kidney injury from rhabdomyolysis with CK of 28000. She was managed with aggressive intravenous fluid resuscitation, urine alkalinization, and nephrology consultation."
+  },
+  {
+    "question": "What was the diagnosis and treatment for patient Anthony Müller, a 40-year-old male admitted on May 2nd?",
+    "answer": "Anthony Müller, a 40-year-old male, presented with uremic symptoms and creatinine of 9.4 and was diagnosed with end-stage renal disease starting hemodialysis. He was managed with tunneled dialysis catheter placement, three times weekly hemodialysis, and arteriovenous fistula creation by vascular surgery."
+  },
+  {
+    "question": "What was the diagnosis and treatment for patient Mary Petrov, a 79-year-old female admitted on September 22nd?",
+    "answer": "Mary Petrov, a 79-year-old female, presented with periorbital edema and 8 grams of proteinuria and was diagnosed with nephrotic syndrome from minimal change disease confirmed on biopsy. She was managed with prednisone 1 mg/kg daily, lisinopril for proteinuria, and atorvastatin for hyperlipidemia."
+  },
+  {
+    "question": "What was the diagnosis and treatment for patient Henry Liu, a 32-year-old male admitted on November 11th?",
+    "answer": "Henry Liu, a 32-year-old male, presented with hematuria following an upper respiratory infection and was diagnosed with IgA nephropathy with rapidly progressive glomerulonephritis features. He was managed with high-dose pulse methylprednisolone, oral prednisone taper, and renal biopsy-guided management."
+  },
+  {
+    "question": "What was the diagnosis and treatment for patient Keisha Thomas, a 74-year-old female admitted on May 17th?",
+    "answer": "Keisha Thomas, a 74-year-old female, presented with severe flank pain radiating to the groin and gross hematuria and was diagnosed with kidney stone with obstructing 8mm stone at the ureterovesical junction. She was managed with intravenous ketorolac, tamsulosin 0.4mg daily, and urology consultation for ureteroscopy."
+  },
+  {
+    "question": "What was the diagnosis and treatment for patient Keisha Singh, a 48-year-old female admitted on July 23rd?",
+    "answer": "Keisha Singh, a 48-year-old female, developed a 60% rise in creatinine 48 hours after contrast administration and was diagnosed with contrast-induced nephropathy following coronary angiography. She was managed with supportive care with intravenous fluids and avoidance of further nephrotoxins."
+  },
+  {
+    "question": "What was the diagnosis and treatment for patient Amina Taylor, a 40-year-old female admitted on July 22nd?",
+    "answer": "Amina Taylor, a 40-year-old female, presented with bilateral flank pain and a strong family history and was diagnosed with polycystic kidney disease with progression to stage 4 CKD. She was managed with tolvaptan therapy, blood pressure control with lisinopril, and nephrology and transplant evaluation."
+  },
+  {
+    "question": "What was the diagnosis and treatment for patient Tasha Thompson, a 67-year-old female admitted on October 10th?",
+    "answer": "Tasha Thompson, a 67-year-old female, presented with proteinuria, hematuria, and elevated double-stranded DNA antibodies and was diagnosed with lupus nephritis class IV on renal biopsy. She was managed with induction therapy with mycophenolate mofetil and prednisone, with hydroxychloroquine continuation."
+  },
+  {
+    "question": "What was the diagnosis and treatment for patient Amina Smith, a 47-year-old female admitted on May 7th?",
+    "answer": "Amina Smith, a 47-year-old female, presented with rising creatinine despite volume expansion and was diagnosed with hepatorenal syndrome type 1 in decompensated cirrhosis. She was managed with albumin infusion, midodrine, octreotide, and urgent liver transplant evaluation."
+  },
+  {
+    "question": "What was the diagnosis and treatment for patient Hana Adams, a 57-year-old female admitted on August 15th?",
+    "answer": "Hana Adams, a 57-year-old female, presented with eosinophilia, rash, and acute kidney injury and was diagnosed with acute interstitial nephritis from a recent course of cefepime. She was managed with discontinuation of the offending agent and prednisone 1 mg/kg daily with taper."
+  },
+  {
+    "question": "What was the diagnosis and treatment for patient Diego Ali, a 78-year-old male admitted on December 6th?",
+    "answer": "Diego Ali, a 78-year-old male, presented with hemoptysis, hematuria, and acute renal failure and was diagnosed with ANCA-associated vasculitis with crescentic glomerulonephritis. He was managed with rituximab induction, plasmapheresis, and high-dose corticosteroids."
+  },
+  {
+    "question": "What was the diagnosis and treatment for patient Noah Mensah, a 70-year-old male admitted on November 20th?",
+    "answer": "Noah Mensah, a 70-year-old male, presented with nephrotic-range proteinuria and was diagnosed with focal segmental glomerulosclerosis on biopsy. He was managed with lisinopril 20mg daily, prednisone trial, and dietary sodium restriction."
+  },
+  {
+    "question": "What was the diagnosis and treatment for patient Elizabeth Walker, a 71-year-old female admitted on May 8th?",
+    "answer": "Elizabeth Walker, a 71-year-old female, presented hypotensive with pyuria and a 40 cm Hg fever and was diagnosed with urinary tract infection with septic shock. She was managed with intravenous piperacillin-tazobactam, fluid resuscitation, and norepinephrine in the ICU."
+  },
+  {
+    "question": "What was the diagnosis and treatment for patient Wei Brown, a 30-year-old male admitted on April 16th?",
+    "answer": "Wei Brown, a 30-year-old male, had a 3.2 cm enhancing right renal mass found on CT for unrelated abdominal pain and was diagnosed with renal cell carcinoma incidentally found on abdominal imaging. He was managed with robotic-assisted partial nephrectomy by urologic oncology."
+  },
+  {
+    "question": "What was the diagnosis and treatment for patient Isaac Wang, a 84-year-old male admitted on November 19th?",
+    "answer": "Isaac Wang, a 84-year-old male, had progressive albuminuria and HbA1c of 8.4 on routine follow-up and was diagnosed with diabetic nephropathy with microalbuminuria progression. He was managed with intensification of diabetes management, lisinopril 20mg daily, and SGLT2 inhibitor addition."
+  },
+  {
+    "question": "What was the diagnosis and treatment for patient Reginald Roberts, a 59-year-old male admitted on July 8th?",
+    "answer": "Reginald Roberts, a 59-year-old male, presented with sudden right-sided weakness and aphasia and was diagnosed with acute ischemic stroke involving the left middle cerebral artery. He was managed with intravenous tenecteplase within the 4.5-hour window, mechanical thrombectomy, and stroke unit admission."
+  },
+  {
+    "question": "What was the diagnosis and treatment for patient Igor Smith, a 76-year-old male admitted on February 25th?",
+    "answer": "Igor Smith, a 76-year-old male, presented with worst-headache-of-life and brief loss of consciousness and was diagnosed with subarachnoid hemorrhage from a ruptured anterior communicating artery aneurysm. He was managed with endovascular coiling by neurointerventional radiology, nimodipine 60mg every four hours, and ICU monitoring."
+  },
+  {
+    "question": "What was the diagnosis and treatment for patient Emma Thompson, a 79-year-old female admitted on December 17th?",
+    "answer": "Emma Thompson, a 79-year-old female, presented with thirty minutes of continuous convulsive seizure activity and was diagnosed with status epilepticus with generalized tonic-clonic seizures. She was managed with intravenous lorazepam followed by levetiracetam load, with continuous EEG monitoring."
+  },
+  {
+    "question": "What was the diagnosis and treatment for patient Susan Rossi, a 43-year-old female admitted on February 15th?",
+    "answer": "Susan Rossi, a 43-year-old female, presented with painful unilateral vision loss and afferent pupillary defect and was diagnosed with multiple sclerosis relapse with new optic neuritis. She was managed with intravenous methylprednisolone 1g daily for five days and ocrelizumab as disease-modifying therapy."
+  },
+  {
+    "question": "What was the diagnosis and treatment for patient Isaac Volkov, a 63-year-old male admitted on October 11th?",
+    "answer": "Isaac Volkov, a 63-year-old male, presented with progressive symmetric weakness following recent gastroenteritis and was diagnosed with Guillain-Barré syndrome with ascending paralysis. He was managed with intravenous immunoglobulin 0.4 g/kg daily for five days and ICU monitoring for respiratory failure."
+  },
+  {
+    "question": "What was the diagnosis and treatment for patient Ananya Okonkwo, a 55-year-old female admitted on September 15th?",
+    "answer": "Ananya Okonkwo, a 55-year-old female, presented with progressive ptosis, dysphagia, and dyspnea and was diagnosed with myasthenia gravis crisis with respiratory failure. She was managed with plasmapheresis, intubation, and pyridostigmine plus prednisone optimization."
+  },
+  {
+    "question": "What was the diagnosis and treatment for patient Gregory Ali, a 56-year-old male admitted on May 25th?",
+    "answer": "Gregory Ali, a 56-year-old male, presented with fever, confusion, and temporal lobe abnormalities on MRI and was diagnosed with herpes simplex encephalitis confirmed by CSF PCR. He was managed with intravenous acyclovir 10 mg/kg every eight hours for fourteen days."
+  },
+  {
+    "question": "What was the diagnosis and treatment for patient Pavel Scott, a 77-year-old male admitted on September 16th?",
+    "answer": "Pavel Scott, a 77-year-old male, presented with fever, neck stiffness, and altered mental status and was diagnosed with bacterial meningitis from Streptococcus pneumoniae. He was managed with intravenous ceftriaxone, vancomycin, and dexamethasone with prompt lumbar puncture."
+  },
+  {
+    "question": "What was the diagnosis and treatment for patient Liam Kim, a 32-year-old male admitted on December 10th?",
+    "answer": "Liam Kim, a 32-year-old male, presented with worsening end-of-dose wearing off and dyskinesias and was diagnosed with Parkinson disease with motor fluctuations on long-term levodopa. He was managed with addition of entacapone, dopamine agonist consideration, and deep brain stimulation referral."
+  },
+  {
+    "question": "What was the diagnosis and treatment for patient Liam Nelson, a 48-year-old male admitted on September 3rd?",
+    "answer": "Liam Nelson, a 48-year-old male, presented with progressive dysarthria and tongue fasciculations and was diagnosed with amyotrophic lateral sclerosis with bulbar onset. He was managed with riluzole 50mg twice daily, edaravone infusions, and multidisciplinary ALS clinic enrollment."
+  },
+  {
+    "question": "What was the diagnosis and treatment for patient Wei Robinson, a 52-year-old male admitted on December 5th?",
+    "answer": "Wei Robinson, a 52-year-old male, presented with positional headache and transient visual obscurations and was diagnosed with idiopathic intracranial hypertension with papilledema. He was managed with acetazolamide 500mg twice daily, weight loss counseling, and ophthalmology surveillance."
+  },
+  {
+    "question": "What was the diagnosis and treatment for patient James Wang, a 54-year-old male admitted on June 18th?",
+    "answer": "James Wang, a 54-year-old male, presented with lancinating right facial pain triggered by chewing and was diagnosed with trigeminal neuralgia in the V2 distribution. He was managed with carbamazepine 200mg twice daily titrated upward and microvascular decompression evaluation."
+  },
+  {
+    "question": "What was the diagnosis and treatment for patient Nadia Davis, a 74-year-old female admitted on July 13th?",
+    "answer": "Nadia Davis, a 74-year-old female, presented with gait apraxia, urinary incontinence, and cognitive decline and was diagnosed with normal pressure hydrocephalus with classic triad. She was managed with large-volume lumbar puncture diagnostic test followed by ventriculoperitoneal shunt placement."
+  },
+  {
+    "question": "What was the diagnosis and treatment for patient Patrick Müller, a 52-year-old male admitted on August 1st?",
+    "answer": "Patrick Müller, a 52-year-old male, presented with progressive short-term memory loss over two years and was diagnosed with Alzheimer disease with moderate cognitive impairment. He was managed with donepezil 10mg daily, memantine titration, and caregiver support resources."
+  },
+  {
+    "question": "What was the diagnosis and treatment for patient Harper Roberts, a 82-year-old female admitted on July 18th?",
+    "answer": "Harper Roberts, a 82-year-old female, presented with three episodes of right arm weakness in 24 hours and was diagnosed with transient ischemic attack with crescendo symptoms. She was managed with dual antiplatelet therapy with aspirin and clopidogrel for 21 days, high-intensity statin, and stroke workup."
+  },
+  {
+    "question": "What was the diagnosis and treatment for patient Roberto Lewis, a 45-year-old male admitted on July 16th?",
+    "answer": "Roberto Lewis, a 45-year-old male, presented with sudden severe headache and contralateral hemiplegia and was diagnosed with intracerebral hemorrhage in the basal ganglia. He was managed with blood pressure goal under 140 systolic, neurosurgery consultation, and ICU admission."
+  },
+  {
+    "question": "What was the diagnosis and treatment for patient Anthony Baker, a 70-year-old male admitted on November 26th?",
+    "answer": "Anthony Baker, a 70-year-old male, presented with excruciating unilateral periorbital pain in episodic clusters and was diagnosed with cluster headache with autonomic features. He was managed with high-flow oxygen during attacks, sumatriptan injection, and verapamil 240mg daily as preventive therapy."
+  },
+  {
+    "question": "What was the diagnosis and treatment for patient Beatrice Perez, a 81-year-old female admitted on August 5th?",
+    "answer": "Beatrice Perez, a 81-year-old female, presented with progressive chorea and family history and was diagnosed with Huntington disease confirmed by genetic testing. She was managed with tetrabenazine for chorea, psychiatric support, and family genetic counseling."
+  },
+  {
+    "question": "What was the diagnosis and treatment for patient Christopher Andersson, a 36-year-old male admitted on November 1st?",
+    "answer": "Christopher Andersson, a 36-year-old male, presented with progressive headache and seizure two weeks postpartum and was diagnosed with cerebral venous sinus thrombosis postpartum. He was managed with therapeutic anticoagulation with low-molecular-weight heparin transitioned to warfarin for six months."
+  },
+  {
+    "question": "What was the diagnosis and treatment for patient Igor Chen, a 36-year-old male admitted on August 6th?",
+    "answer": "Igor Chen, a 36-year-old male, presented with sudden continuous vertigo and unilateral horizontal nystagmus and was diagnosed with vestibular neuritis with severe vertigo. He was managed with meclizine for symptom control, vestibular rehabilitation referral, and a short course of prednisone."
+  },
+  {
+    "question": "What was the diagnosis and treatment for patient Ethan Carter, a 78-year-old male admitted on April 15th?",
+    "answer": "Ethan Carter, a 78-year-old male, presented with fluctuating cognition and visual hallucinations and was diagnosed with dementia with Lewy bodies. He was managed with rivastigmine for cognitive symptoms, low-dose quetiapine for hallucinations, and avoidance of typical antipsychotics."
+  },
+  {
+    "question": "What was the diagnosis and treatment for patient Grace Carter, a 45-year-old female admitted on July 9th?",
+    "answer": "Grace Carter, a 45-year-old female, presented with progressive bilateral action tremor affecting daily activities and was diagnosed with essential tremor refractory to medication. She was managed with primidone trial followed by referral for focused ultrasound thalamotomy."
+  },
+  {
+    "question": "What was the diagnosis and treatment for patient Vincent Williams, a 75-year-old male admitted on September 2nd?",
+    "answer": "Vincent Williams, a 75-year-old male, presented with seizures, headache, and cortical blindness and was diagnosed with posterior reversible encephalopathy syndrome from severe hypertension. He was managed with blood pressure control with intravenous nicardipine and seizure prophylaxis."
+  },
+  {
+    "question": "What was the diagnosis and treatment for patient Emma Rodriguez, a 77-year-old female admitted on November 2nd?",
+    "answer": "Emma Rodriguez, a 77-year-old female, presented with progressive symmetric weakness and absent reflexes over two months and was diagnosed with chronic inflammatory demyelinating polyneuropathy. She was managed with intravenous immunoglobulin maintenance and immunosuppressive therapy with mycophenolate."
+  },
+  {
+    "question": "What was the diagnosis and treatment for patient Tyrone Sanchez, a 81-year-old male admitted on January 20th?",
+    "answer": "Tyrone Sanchez, a 81-year-old male, presented with progressive headache, fever, and focal seizures and was diagnosed with brain abscess in the right frontal lobe. He was managed with stereotactic aspiration by neurosurgery and prolonged intravenous antibiotics with metronidazole, ceftriaxone, and vancomycin."
+  },
+  {
+    "question": "What was the diagnosis and treatment for patient Tyrone Taylor, a 58-year-old male admitted on November 4th?",
+    "answer": "Tyrone Taylor, a 58-year-old male, presented with fatigue, easy bruising, and blasts on peripheral smear and was diagnosed with newly diagnosed acute myeloid leukemia. He was managed with induction chemotherapy with cytarabine and daunorubicin, transfusion support, and bone marrow transplant evaluation."
+  },
+  {
+    "question": "What was the diagnosis and treatment for patient Isaac Allen, a 77-year-old male admitted on June 6th?",
+    "answer": "Isaac Allen, a 77-year-old male, presented with B symptoms and a palpable abdominal mass and was diagnosed with diffuse large B-cell lymphoma with bulky abdominal disease. He was managed with R-CHOP chemotherapy every 21 days for six cycles with PET surveillance."
+  },
+  {
+    "question": "What was the diagnosis and treatment for patient Sean Lee, a 47-year-old male admitted on February 19th?",
+    "answer": "Sean Lee, a 47-year-old male, presented with back pain, anemia, and a serum monoclonal protein and was diagnosed with multiple myeloma with lytic bone lesions and renal insufficiency. He was managed with lenalidomide, bortezomib, and dexamethasone induction with autologous stem cell transplant planning."
+  },
+  {
+    "question": "What was the diagnosis and treatment for patient Lucas Müller, a 71-year-old male admitted on July 13th?",
+    "answer": "Lucas Müller, a 71-year-old male, presented with mucocutaneous bleeding and petechiae and was diagnosed with immune thrombocytopenic purpura with platelets of 8000. He was managed with intravenous immunoglobulin and high-dose dexamethasone with hematology follow-up."
+  },
+  {
+    "question": "What was the diagnosis and treatment for patient James Andersson, a 72-year-old male admitted on November 8th?",
+    "answer": "James Andersson, a 72-year-old male, presented with progressive cervical lymphadenopathy and an absolute lymphocyte count of 110000 and was diagnosed with chronic lymphocytic leukemia stage Rai II with bulky lymphadenopathy. He was managed with ibrutinib 420mg daily and IgG monitoring."
+  },
+  {
+    "question": "What was the diagnosis and treatment for patient Terrence Hill, a 82-year-old male admitted on November 20th?",
+    "answer": "Terrence Hill, a 82-year-old male, presented with severe diffuse bone pain typical of prior crises and was diagnosed with sickle cell disease vaso-occlusive crisis. He was managed with intravenous fluids, opioid analgesia with patient-controlled analgesia, and incentive spirometry."
+  },
+  {
+    "question": "What was the diagnosis and treatment for patient Kenji Garcia, a 50-year-old male admitted on September 14th?",
+    "answer": "Kenji Garcia, a 50-year-old male, presented with arthralgias, fatigue, and ferritin of 4500 and was diagnosed with hereditary hemochromatosis with iron overload and cirrhosis. He was managed with weekly therapeutic phlebotomy and hepatology surveillance for hepatocellular carcinoma."
+  },
+  {
+    "question": "What was the diagnosis and treatment for patient Jennifer Okonkwo, a 69-year-old female admitted on June 1st?",
+    "answer": "Jennifer Okonkwo, a 69-year-old female, presented for routine INR check with no bleeding and was diagnosed with warfarin-induced supratherapeutic INR of 9.2. She was managed with warfarin held, oral vitamin K 2.5mg, and bridging plan once INR therapeutic."
+  },
+  {
+    "question": "What was the diagnosis and treatment for patient Lucia Wilson, a 55-year-old female admitted on June 21st?",
+    "answer": "Lucia Wilson, a 55-year-old female, presented with thrombocytopenia, microangiopathic hemolytic anemia, and confusion and was diagnosed with thrombotic thrombocytopenic purpura with ADAMTS13 deficiency. She was managed with emergent plasmapheresis, caplacizumab, and high-dose prednisone."
+  },
+  {
+    "question": "What was the diagnosis and treatment for patient Renee Martin, a 55-year-old female admitted on March 24th?",
+    "answer": "Renee Martin, a 55-year-old female, presented with weight loss and a colonoscopy revealing a sigmoid mass and was diagnosed with metastatic colorectal cancer with hepatic metastases. She was managed with FOLFOX chemotherapy with bevacizumab and multidisciplinary tumor board discussion."
+  },
+  {
+    "question": "What was the diagnosis and treatment for patient Ananya Novak, a 77-year-old female admitted on August 15th?",
+    "answer": "Ananya Novak, a 77-year-old female, presented with subacute personality changes and a periventricular enhancing lesion and was diagnosed with primary central nervous system lymphoma in an immunocompetent host. She was managed with high-dose methotrexate-based regimen and ophthalmologic evaluation for ocular involvement."
+  },
+  {
+    "question": "What was the diagnosis and treatment for patient Beatrice Andersson, a 45-year-old female admitted on June 28th?",
+    "answer": "Beatrice Andersson, a 45-year-old female, presented with fatigue, easy bruising, and recurrent infections and was diagnosed with pancytopenia from severe aplastic anemia. She was managed with antithymocyte globulin and cyclosporine immunosuppression with sibling HLA-typing for transplant."
+  },
+  {
+    "question": "What was the diagnosis and treatment for patient William Scott, a 84-year-old male admitted on August 8th?",
+    "answer": "William Scott, a 84-year-old male, presented with hemoptysis and a lung mass with brain metastases and was diagnosed with metastatic non-small cell lung cancer with EGFR exon 19 deletion. He was managed with osimertinib 80mg daily and palliative care integration."
+  },
+  {
+    "question": "What was the diagnosis and treatment for patient Sakura Carter, a 49-year-old female admitted on January 16th?",
+    "answer": "Sakura Carter, a 49-year-old female, presented with a palpable breast mass and a positive sentinel lymph node biopsy and was diagnosed with triple-negative breast cancer with axillary involvement. She was managed with neoadjuvant pembrolizumab plus chemotherapy followed by surgery and radiation."
+  },
+  {
+    "question": "What was the diagnosis and treatment for patient Anastasia Hussein, a 41-year-old female admitted on June 26th?",
+    "answer": "Anastasia Hussein, a 41-year-old female, presented at age 38 with right-sided colon cancer and a strong family history and was diagnosed with hereditary nonpolyposis colorectal cancer with Lynch syndrome confirmed. She was managed with colectomy, gynecologic surveillance, and family genetic counseling."
+  },
+  {
+    "question": "What was the diagnosis and treatment for patient Grace Scott, a 84-year-old female admitted on October 23rd?",
+    "answer": "Grace Scott, a 84-year-old female, presented with low back pain and PSA of 250 and was diagnosed with metastatic prostate cancer with bone metastases. She was managed with androgen deprivation therapy with leuprolide and abiraterone with prednisone."
+  },
+  {
+    "question": "What was the diagnosis and treatment for patient Lucia Rossi, a 76-year-old female admitted on April 23rd?",
+    "answer": "Lucia Rossi, a 76-year-old female, presented with night sweats, weight loss, and supraclavicular lymphadenopathy and was diagnosed with Hodgkin lymphoma stage IIB with mediastinal mass. She was managed with ABVD chemotherapy for four cycles followed by interim PET-guided therapy."
+  },
+  {
+    "question": "What was the diagnosis and treatment for patient Svetlana Hussein, a 56-year-old female admitted on January 3rd?",
+    "answer": "Svetlana Hussein, a 56-year-old female, presented with fatigue, splenomegaly, and a white blood cell count of 142000 and was diagnosed with chronic myeloid leukemia in chronic phase. She was managed with imatinib 400mg daily with BCR-ABL transcript monitoring."
+  },
+  {
+    "question": "What was the diagnosis and treatment for patient Emma Khan, a 72-year-old female admitted on April 10th?",
+    "answer": "Emma Khan, a 72-year-old female, presented with abdominal distention and an elevated CA-125 of 890 and was diagnosed with ovarian cancer stage IIIC with peritoneal carcinomatosis. She was managed with primary debulking surgery followed by carboplatin and paclitaxel chemotherapy."
+  },
+  {
+    "question": "What was the diagnosis and treatment for patient Rosa Dubois, a 61-year-old female admitted on June 14th?",
+    "answer": "Rosa Dubois, a 61-year-old female, developed skin rash and diarrhea on day 35 post-transplant and was diagnosed with graft-versus-host disease following allogeneic stem cell transplant. She was managed with high-dose corticosteroids, ruxolitinib for steroid-refractory disease, and infectious prophylaxis."
+  },
+  {
+    "question": "What was the diagnosis and treatment for patient Chloe Sato, a 45-year-old female admitted on May 9th?",
+    "answer": "Chloe Sato, a 45-year-old female, presented with hypotension, fever, and altered mental status and was diagnosed with septic shock from Escherichia coli urinary source. She was managed with intravenous fluids, ceftriaxone transitioning to ertapenem per sensitivities, and norepinephrine in the ICU."
+  },
+  {
+    "question": "What was the diagnosis and treatment for patient Hassan Harris, a 48-year-old male admitted on February 24th?",
+    "answer": "Hassan Harris, a 48-year-old male, presented with progressive dyspnea, dry cough, and weight loss and was diagnosed with HIV infection with CD4 of 142 and Pneumocystis pneumonia. He was managed with trimethoprim-sulfamethoxazole, prednisone taper for hypoxemia, and initiation of bictegravir-emtricitabine-tenofovir alafenamide."
+  },
+  {
+    "question": "What was the diagnosis and treatment for patient Samuel Ramirez, a 75-year-old male admitted on August 9th?",
+    "answer": "Samuel Ramirez, a 75-year-old male, presented with arthralgias, history of tick exposure, and bradycardia and was diagnosed with Lyme disease with carditis and second-degree heart block. He was managed with intravenous ceftriaxone 2g daily for fourteen days and cardiac monitoring."
+  },
+  {
+    "question": "What was the diagnosis and treatment for patient Maria Harris, a 46-year-old female admitted on April 12th?",
+    "answer": "Maria Harris, a 46-year-old female, presented with fevers, rigors, and parasitemia of 8% and was diagnosed with malaria from Plasmodium falciparum following recent travel to West Africa. She was managed with intravenous artesunate followed by oral artemether-lumefantrine."
+  },
+  {
+    "question": "What was the diagnosis and treatment for patient Lucas Johnson, a 73-year-old male admitted on September 5th?",
+    "answer": "Lucas Johnson, a 73-year-old male, presented with fever, hepatosplenomegaly, and pancytopenia and was diagnosed with disseminated histoplasmosis in an immunocompromised host. He was managed with liposomal amphotericin B induction followed by oral itraconazole."
+  },
+  {
+    "question": "What was the diagnosis and treatment for patient Patricia Miller, a 63-year-old female admitted on May 23rd?",
+    "answer": "Patricia Miller, a 63-year-old female, developed fever and rigors three days into a peripherally inserted central catheter course and was diagnosed with methicillin-resistant Staphylococcus aureus bacteremia from a vascular catheter. She was managed with catheter removal, intravenous vancomycin guided by trough levels, and transesophageal echocardiogram."
+  },
+  {
+    "question": "What was the diagnosis and treatment for patient Pavel Hussein, a 34-year-old male admitted on January 19th?",
+    "answer": "Pavel Hussein, a 34-year-old male, presented with fever, splinter hemorrhages, and Janeway lesions and was diagnosed with infective endocarditis with septic emboli to the spleen. He was managed with intravenous nafcillin and gentamicin and infectious diseases consultation."
+  },
+  {
+    "question": "What was the diagnosis and treatment for patient Rosa Ahmed, a 56-year-old female admitted on June 6th?",
+    "answer": "Rosa Ahmed, a 56-year-old female, presented with migratory polyarthralgias and pustular rash and was diagnosed with disseminated gonococcal infection with tenosynovitis and dermatitis. She was managed with intravenous ceftriaxone 1g daily, partner notification, and screening for other sexually transmitted infections."
+  },
+  {
+    "question": "What was the diagnosis and treatment for patient Ethan Ahmed, a 35-year-old male admitted on February 13th?",
+    "answer": "Ethan Ahmed, a 35-year-old male, presented with one week of fever and progressive shortness of breath and was diagnosed with severe COVID-19 pneumonia with hypoxemic respiratory failure. He was managed with remdesivir, dexamethasone 6mg daily, baricitinib, and high-flow nasal cannula in the ICU."
+  },
+  {
+    "question": "What was the diagnosis and treatment for patient Jennifer Müller, a 68-year-old female admitted on November 2nd?",
+    "answer": "Jennifer Müller, a 68-year-old female, presented with weight loss, hemoptysis, and a cavitary lesion not responding to first-line therapy and was diagnosed with active pulmonary tuberculosis with multidrug resistance. She was managed with individualized regimen with bedaquiline, linezolid, and pretomanid under public health supervision."
+  },
+  {
+    "question": "What was the diagnosis and treatment for patient Wei Marino, a 47-year-old male admitted on February 8th?",
+    "answer": "Wei Marino, a 47-year-old male, presented with a generalized rash including the palms and soles and was diagnosed with syphilis at the secondary stage with palmar rash. He was managed with single intramuscular injection of benzathine penicillin G 2.4 million units and HIV testing."
+  },
+  {
+    "question": "What was the diagnosis and treatment for patient Tariq Wang, a 66-year-old male admitted on October 26th?",
+    "answer": "Tariq Wang, a 66-year-old male, developed fever and pulmonary nodules during induction chemotherapy and was diagnosed with invasive aspergillosis in a neutropenic patient. He was managed with voriconazole loading dose followed by maintenance dosing with therapeutic drug monitoring."
+  },
+  {
+    "question": "What was the diagnosis and treatment for patient Sean Petrov, a 52-year-old male admitted on August 15th?",
+    "answer": "Sean Petrov, a 52-year-old male, presented with painful erythema and a fluctuant mass on the calf and was diagnosed with cellulitis of the lower extremity with abscess formation. He was managed with incision and drainage and intravenous cefazolin followed by oral cephalexin."
+  },
+  {
+    "question": "What was the diagnosis and treatment for patient Hana Chen, a 27-year-old female admitted on October 20th?",
+    "answer": "Hana Chen, a 27-year-old female, presented with jaundice, anorexia, and recent restaurant outbreak exposure and was diagnosed with acute viral hepatitis A from contaminated food exposure. She was managed with supportive care with monitoring of liver function and hepatology follow-up."
+  },
+  {
+    "question": "What was the diagnosis and treatment for patient Arun Gonzalez, a 76-year-old male admitted on April 21st?",
+    "answer": "Arun Gonzalez, a 76-year-old male, presented with summer-onset fever, encephalitis, and asymmetric flaccid weakness and was diagnosed with West Nile virus neuroinvasive disease. He was managed with supportive care with seizure precautions and physical therapy for residual weakness."
+  },
+  {
+    "question": "What was the diagnosis and treatment for patient Ethan Hernandez, a 38-year-old male admitted on April 6th?",
+    "answer": "Ethan Hernandez, a 38-year-old male, presented with sudden severe pain, redness, and swelling of the left great toe and was diagnosed with acute gouty arthritis of the first metatarsophalangeal joint. He was managed with indomethacin 50mg three times daily and initiation of allopurinol for chronic urate lowering."
+  },
+  {
+    "question": "What was the diagnosis and treatment for patient Akira Smith, a 54-year-old male admitted on August 23rd?",
+    "answer": "Akira Smith, a 54-year-old male, presented with morning stiffness lasting two hours and elevated rheumatoid factor and was diagnosed with rheumatoid arthritis with new symmetric polyarthritis. He was managed with methotrexate 15mg weekly with folic acid supplementation and prednisone bridge."
+  },
+  {
+    "question": "What was the diagnosis and treatment for patient Amelia Jones, a 42-year-old female admitted on May 23rd?",
+    "answer": "Amelia Jones, a 42-year-old female, presented with photosensitive facial rash, joint pain, and positive ANA and was diagnosed with systemic lupus erythematosus with malar rash and arthritis. She was managed with hydroxychloroquine 200mg twice daily, low-dose prednisone, and rheumatology follow-up."
+  },
+  {
+    "question": "What was the diagnosis and treatment for patient Monique Sato, a 32-year-old female admitted on November 8th?",
+    "answer": "Monique Sato, a 32-year-old female, presented with unilateral temporal headache and elevated ESR and was diagnosed with giant cell arteritis with new-onset headache and jaw claudication. She was managed with high-dose prednisone 60mg daily and urgent temporal artery biopsy."
+  },
+  {
+    "question": "What was the diagnosis and treatment for patient Natasha Andersson, a 70-year-old female admitted on April 14th?",
+    "answer": "Natasha Andersson, a 70-year-old female, presented with bilateral shoulder pain and morning stiffness and was diagnosed with polymyalgia rheumatica with shoulder and hip girdle stiffness. She was managed with prednisone 15mg daily with slow taper based on symptoms and inflammatory markers."
+  },
+  {
+    "question": "What was the diagnosis and treatment for patient Omar Lewis, a 69-year-old male admitted on March 9th?",
+    "answer": "Omar Lewis, a 69-year-old male, presented with sausage digit deformity and chronic plaque psoriasis and was diagnosed with psoriatic arthritis with dactylitis. He was managed with methotrexate followed by adalimumab for inadequate response, and dermatology co-management."
+  },
+  {
+    "question": "What was the diagnosis and treatment for patient James Davis, a 38-year-old male admitted on May 20th?",
+    "answer": "James Davis, a 38-year-old male, presented with chronic inflammatory back pain improved with exercise and was diagnosed with ankylosing spondylitis with sacroiliitis on MRI. He was managed with naproxen 500mg twice daily, physical therapy, and TNF inhibitor consideration for inadequate response."
+  },
+  {
+    "question": "What was the diagnosis and treatment for patient Imani Thomas, a 57-year-old female admitted on December 10th?",
+    "answer": "Imani Thomas, a 57-year-old female, presented with dry eyes, dry mouth, and parotid enlargement and was diagnosed with Sjögren syndrome with severe sicca symptoms. She was managed with pilocarpine for dry mouth, cyclosporine eye drops, and dental and ophthalmologic surveillance."
+  },
+  {
+    "question": "What was the diagnosis and treatment for patient Mia Okonkwo, a 62-year-old female admitted on August 15th?",
+    "answer": "Mia Okonkwo, a 62-year-old female, presented with rapidly progressive hypertension and acute kidney injury and was diagnosed with scleroderma renal crisis. She was managed with captopril titration with target blood pressure under 130/80 and hospital admission."
+  },
+  {
+    "question": "What was the diagnosis and treatment for patient Sanjay Garcia, a 84-year-old male admitted on July 24th?",
+    "answer": "Sanjay Garcia, a 84-year-old male, presented with difficulty rising from a chair and elevated creatine kinase and was diagnosed with dermatomyositis with heliotrope rash and proximal muscle weakness. He was managed with high-dose prednisone, methotrexate, and malignancy screening."
+  },
+  {
+    "question": "What was the diagnosis and treatment for patient Deepa Allen, a 29-year-old female admitted on February 8th?",
+    "answer": "Deepa Allen, a 29-year-old female, presented with widespread mucocutaneous bullae and skin sloughing and was diagnosed with Stevens-Johnson syndrome from a recent sulfa antibiotic. She was managed with discontinuation of the offending agent, burn unit-level supportive care, and ophthalmologic monitoring."
+  },
+  {
+    "question": "What was the diagnosis and treatment for patient Patrick Wright, a 64-year-old male admitted on January 25th?",
+    "answer": "Patrick Wright, a 64-year-old male, presented with diffuse pruritic flexural eczema unresponsive to moderate-potency steroids and was diagnosed with severe atopic dermatitis flare in an adult. He was managed with topical tacrolimus, oral prednisone burst, and dupilumab for moderate-to-severe disease."
+  },
+  {
+    "question": "What was the diagnosis and treatment for patient Vincent Petrov, a 88-year-old male admitted on August 9th?",
+    "answer": "Vincent Petrov, a 88-year-old male, presented with hip pain and inability to bear weight and was diagnosed with displaced femoral neck fracture from a ground-level fall. He was managed with hemiarthroplasty by orthopedic surgery and DEXA scan for osteoporosis evaluation."
+  },
+  {
+    "question": "What was the diagnosis and treatment for patient Hiroshi Liu, a 68-year-old male admitted on August 3rd?",
+    "answer": "Hiroshi Liu, a 68-year-old male, developed disproportionate pain and allodynia following a distal radius fracture and was diagnosed with complex regional pain syndrome of the right upper extremity. He was managed with physical therapy, gabapentin titration, and stellate ganglion block by pain medicine."
+  },
+  {
+    "question": "What was the diagnosis and treatment for patient Chloe Singh, a 49-year-old female admitted on June 22nd?",
+    "answer": "Chloe Singh, a 49-year-old female, presented with rapidly progressing scrotal pain and crepitus and was diagnosed with necrotizing fasciitis of the perineum with Fournier gangrene. She was managed with emergent surgical debridement, broad-spectrum antibiotics, and ICU support."
+  },
+  {
+    "question": "What was the diagnosis and treatment for patient Akira Nelson, a 54-year-old male admitted on December 16th?",
+    "answer": "Akira Nelson, a 54-year-old male, presented after a sertraline overdose and was diagnosed with major depressive disorder with active suicidal ideation. He was managed with psychiatric admission, initiation of sertraline 50mg daily, and safety planning with the family."
+  },
+  {
+    "question": "What was the diagnosis and treatment for patient Keisha Khan, a 80-year-old female admitted on September 2nd?",
+    "answer": "Keisha Khan, a 80-year-old female, presented 72 hours after last drink with tremors, hallucinations, and tachycardia and was diagnosed with severe alcohol withdrawal with delirium tremens. She was managed with symptom-triggered lorazepam protocol, thiamine and folate supplementation, and ICU monitoring."
+  },
+  {
+    "question": "What was the diagnosis and treatment for patient Elizabeth Green, a 44-year-old female admitted on June 4th?",
+    "answer": "Elizabeth Green, a 44-year-old female, presented in withdrawal seeking treatment after years of heroin use and was diagnosed with opioid use disorder requiring medication-assisted treatment. She was managed with buprenorphine-naloxone induction and referral to outpatient addiction treatment."
+  },
+  {
+    "question": "What was the diagnosis and treatment for patient Camila Smith, a 70-year-old female admitted on September 15th?",
+    "answer": "Camila Smith, a 70-year-old female, presented with two weeks of decreased sleep, grandiosity, and reckless spending and was diagnosed with acute mania in bipolar I disorder. She was managed with valproic acid load and quetiapine, with involuntary admission for grave disability."
+  },
+  {
+    "question": "What was the diagnosis and treatment for patient Susan Harris, a 61-year-old female admitted on June 20th?",
+    "answer": "Susan Harris, a 61-year-old female, presented after stopping medications two months prior and was diagnosed with acute schizophrenia exacerbation with command auditory hallucinations. She was managed with olanzapine 10mg daily with restart of long-acting paliperidone injection."
+  },
+  {
+    "question": "What was the diagnosis and treatment for patient Natasha Kim, a 19-year-old female admitted on April 9th?",
+    "answer": "Natasha Kim, a 19-year-old female, presented with bradycardia and BMI of 13.2 and was diagnosed with anorexia nervosa with severe medical instability. She was managed with medical stabilization with cardiac monitoring, slow refeeding protocol, and inpatient eating disorder program transfer."
+  },
+  {
+    "question": "What was the diagnosis and treatment for patient Noah Kim, a 84-year-old male admitted on December 16th?",
+    "answer": "Noah Kim, a 84-year-old male, presented obtunded after taking unknown quantity of alprazolam and was diagnosed with benzodiazepine overdose with respiratory depression. He was managed with supportive care, naloxone given empirically, and observation in the ICU."
+  },
+  {
+    "question": "What was the diagnosis and treatment for patient Michael Walker, a 23-year-old male admitted on May 18th?",
+    "answer": "Michael Walker, a 23-year-old male, presented with three months of paranoid delusions and social withdrawal and was diagnosed with first-episode psychosis in a young adult. He was managed with risperidone titration, family education, and coordinated specialty care referral."
+  },
+  {
+    "question": "What was the diagnosis and treatment for patient Tariq Singh, a 20-year-old male admitted on April 27th?",
+    "answer": "Tariq Singh, a 20-year-old male, developed brisk vaginal bleeding immediately following vaginal delivery and was diagnosed with postpartum hemorrhage from uterine atony. He was managed with uterine massage, oxytocin and methylergonovine, and balloon tamponade with transfusion."
+  },
+  {
+    "question": "What was the diagnosis and treatment for patient Isaac Thomas, a 38-year-old male admitted on March 16th?",
+    "answer": "Isaac Thomas, a 38-year-old male, presented at 11 weeks gestation with severe nausea, vomiting, and ketonuria and was diagnosed with hyperemesis gravidarum requiring hospitalization. He was managed with intravenous fluids with dextrose, ondansetron, and thiamine supplementation."
+  },
+  {
+    "question": "What was the diagnosis and treatment for patient Camila Wright, a 31-year-old female admitted on August 16th?",
+    "answer": "Camila Wright, a 31-year-old female, presented with headache, blood pressure of 168/108, and proteinuria and was diagnosed with severe preeclampsia with features at 34 weeks. She was managed with magnesium sulfate for seizure prophylaxis, antihypertensive control with labetalol, and induction of labor."
+  },
+  {
+    "question": "What was the diagnosis and treatment for patient Isaac Dubois, a 22-year-old male admitted on July 7th?",
+    "answer": "Isaac Dubois, a 22-year-old male, presented with positive pregnancy test, abdominal pain, and hypotension and was diagnosed with ectopic pregnancy with hemodynamic instability. He was managed with emergent laparoscopic salpingectomy and blood transfusion."
+  },
+  {
+    "question": "What was the diagnosis and treatment for patient James Scott, a 31-year-old male admitted on June 26th?",
+    "answer": "James Scott, a 31-year-old male, had abnormal glucose tolerance testing on routine prenatal screening and was diagnosed with gestational diabetes diagnosed at 28 weeks. He was managed with medical nutrition therapy, glucose monitoring, and addition of metformin for inadequate control."
+  },
+  {
+    "question": "What was the diagnosis and treatment for patient Mary Torres, a 74-year-old female admitted on May 27th?",
+    "answer": "Mary Torres, a 74-year-old female, presented with severe eye pain, halos around lights, and a fixed mid-dilated pupil and was diagnosed with acute angle-closure glaucoma in the right eye. She was managed with topical pilocarpine and timolol, oral acetazolamide, and emergent laser peripheral iridotomy by ophthalmology."
+  },
+  {
+    "question": "What was the diagnosis and treatment for patient Mei Park, a 62-year-old female admitted on August 12th?",
+    "answer": "Mei Park, a 62-year-old female, presented with proptosis, painful eye movement, and fever and was diagnosed with orbital cellulitis from sinus extension. She was managed with intravenous vancomycin and ampicillin-sulbactam with otolaryngology consultation."
+  },
+  {
+    "question": "What was the diagnosis and treatment for patient Amina Kowalski, a 52-year-old female admitted on August 11th?",
+    "answer": "Amina Kowalski, a 52-year-old female, presented with new flashes, floaters, and a visual field defect and was diagnosed with retinal detachment with macula-sparing presentation. She was managed with emergent vitreoretinal surgery for pneumatic retinopexy."
+  },
+  {
+    "question": "What was the diagnosis and treatment for patient Terrence Walker, a 64-year-old male admitted on July 8th?",
+    "answer": "Terrence Walker, a 64-year-old male, presented with sudden unilateral hearing loss and tinnitus and was diagnosed with sudden sensorineural hearing loss in the left ear. He was managed with high-dose oral prednisone burst and intratympanic steroid injection."
+  },
+  {
+    "question": "What was the diagnosis and treatment for patient Patricia Green, a 75-year-old female admitted on August 23rd?",
+    "answer": "Patricia Green, a 75-year-old female, presented with acute unilateral facial droop and inability to close the eye and was diagnosed with Bell palsy with House-Brackmann grade IV facial weakness. She was managed with oral prednisone 60mg daily for ten days and valacyclovir, with eye protection counseling."
+  },
+  {
+    "question": "What was the diagnosis and treatment for patient Layla Martin, a 59-year-old female admitted on January 5th?",
+    "answer": "Layla Martin, a 59-year-old female, presented with brisk bilateral nasal bleeding on warfarin and was diagnosed with epistaxis from a posterior bleed in an anticoagulated patient. She was managed with posterior nasal packing, reversal of anticoagulation, and otolaryngology consultation for embolization if needed."
+  },
+  {
+    "question": "What was the diagnosis and treatment for patient Maria Kim, a 34-year-old female admitted on September 15th?",
+    "answer": "Maria Kim, a 34-year-old female, presented with severe sore throat, hot potato voice, and uvular deviation and was diagnosed with peritonsillar abscess with trismus. She was managed with needle aspiration by otolaryngology and intravenous ampicillin-sulbactam."
+  },
+  {
+    "question": "What was the diagnosis and treatment for patient Aaron Jackson, a 54-year-old male admitted on November 5th?",
+    "answer": "Aaron Jackson, a 54-year-old male, sustained burns from a kitchen grease fire and was diagnosed with third-degree thermal burn covering 22% total body surface area. He was managed with fluid resuscitation per Parkland formula, burn unit transfer, and surgical debridement and grafting."
+  },
+  {
+    "question": "What was the diagnosis and treatment for patient Vincent King, a 49-year-old male admitted on October 23rd?",
+    "answer": "Vincent King, a 49-year-old male, presented after collapsing during a marathon and was diagnosed with severe heat stroke with core temperature of 41.2 °C. He was managed with rapid cooling with cold water immersion, intravenous fluids, and ICU monitoring for end-organ damage."
+  },
+  {
+    "question": "What was the diagnosis and treatment for patient Svetlana Hernandez, a 82-year-old female admitted on June 28th?",
+    "answer": "Svetlana Hernandez, a 82-year-old female, was found unresponsive outdoors during a winter storm and was diagnosed with hypothermia with core temperature of 28.4 °C. She was managed with active external and core rewarming with warmed intravenous fluids and a forced-air warming blanket."
+  },
+  {
+    "question": "What was the diagnosis and treatment for patient Isabella Hussein, a 83-year-old female admitted on September 2nd?",
+    "answer": "Isabella Hussein, a 83-year-old female, developed urticaria, throat tightness, and hypotension within minutes of eating cookies and was diagnosed with anaphylaxis to peanut exposure. She was managed with intramuscular epinephrine, intravenous diphenhydramine and methylprednisolone, and outpatient allergy referral."
+  },
+  {
+    "question": "What was the diagnosis and treatment for patient Tyrone Torres, a 42-year-old male admitted on December 3rd?",
+    "answer": "Tyrone Torres, a 42-year-old male, presented with hyperthermia, clonus, and agitation and was diagnosed with serotonin syndrome from combined SSRI and tramadol use. He was managed with discontinuation of offending agents, supportive care, and cyproheptadine for severe symptoms."
+  }
+]

@@ -1,0 +1,10 @@
+Clinical_forget:
+  handler: QADataset
+  args:
+    hf_args:
+      split: "train"
+      path: "Cosmic148/clinical-unlearning"
+      data_files: "forget.json"
+    question_key: "question"
+    answer_key: "answer"
+    max_length: 512
